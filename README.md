@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mojaseem&label=Profile%20views&color=0e75b6&style=flat" alt="mojaseem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojaseem" alt="mojaseem" /></a> </p>
+
 
 -  How to reach me **jaseemek2002@gmail.com**
 
